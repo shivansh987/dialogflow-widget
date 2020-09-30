@@ -4,7 +4,7 @@
 
 # Dialogflow Widget for Web
 
-This is an unofficial Web widget for Dialogflow, i built it, to support Google Assistant rich-responses and to delivery the most out of the Platform. The executable is around 100KB. You can load it using iframe or embed it with JavaScript
+This is an Unofficial Web Widget for Dialogflow, I built it, to support Google Assistant rich-responses and to Delivery the most out of the Platform. The Executable is around 100KB. You can load it using Iframe or Embed it with JavaScript
 
 ## What is supported
 - Basic reply (is being displayed and spoken)
@@ -39,4 +39,4 @@ Grab your token in [Dialogflow Console](https://console.dialogflow.com)
 
 Visit [this page](https://github.com/MishUshakov/dialogflow-web) to learn meore
 
-## Thank you, stay updated!
+## Thank You, Stay Updated!
